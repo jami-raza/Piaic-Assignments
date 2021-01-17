@@ -1,0 +1,1 @@
+alert("Welcome to JS land... \r\n Happy coding"  )
